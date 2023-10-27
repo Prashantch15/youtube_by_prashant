@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youtube_by_prashant/static/css/main.45d39f67.css",
+    "main.js": "/youtube_by_prashant/static/js/main.adcea0c9.js",
+    "static/media/ytLogoMobile.png": "/youtube_by_prashant/static/media/ytLogoMobile.7e67cd801ac3213983ff.png",
+    "static/media/ytLogoDesk.png": "/youtube_by_prashant/static/media/ytLogoDesk.d6505fbc930734374cea.png",
+    "index.html": "/youtube_by_prashant/index.html",
+    "main.45d39f67.css.map": "/youtube_by_prashant/static/css/main.45d39f67.css.map",
+    "main.adcea0c9.js.map": "/youtube_by_prashant/static/js/main.adcea0c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d39f67.css",
+    "static/js/main.adcea0c9.js"
+  ]
+}
